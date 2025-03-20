@@ -14,6 +14,11 @@
 <h3 align="center">🚀 A passionate Frontend & Python Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="60%" />
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60%" />
 </p>
 
