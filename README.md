@@ -14,11 +14,11 @@
 <h3 align="center">🚀 A passionate Frontend & Python Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60%" />
 </p>
 
 ---
