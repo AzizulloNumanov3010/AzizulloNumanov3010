@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=AzizulloNumanov3010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="left" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%" style="display:inline;">
+<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30%" style="display:inline;">
 <br>
 
 <h1 align="center">
@@ -41,7 +41,7 @@
   <a href="https://fb.com/numanov02" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/azizullonumanov" target="blank">
+  <a href="https://instagram.com/azizullonumonov" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
